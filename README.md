@@ -1,2 +1,4 @@
-# queue-cpp-12
+# Queue Cpp 12
+
 Standard enqueue and dequeue methods in C++.
+
